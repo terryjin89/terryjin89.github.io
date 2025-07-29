@@ -1,7 +1,7 @@
 ---
-title: 'Web'
+title: 'Tool'
 layout: categories
-permalink: /Web/
+permalink: /Tool/
 author_profile: true
 sidebar_main: true
 ---

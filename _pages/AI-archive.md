@@ -1,7 +1,7 @@
 ---
-title: 'Web'
+title: 'AI'
 layout: categories
-permalink: /Web/
+permalink: /AI/
 author_profile: true
 sidebar_main: true
 ---
