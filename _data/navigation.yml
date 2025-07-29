@@ -4,9 +4,9 @@ main:
     url: /Language/
   - title: "Web"
     url: /Web/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Tool"
+    url: /Tool/
+  - title: "AI"
+    url: /AI/
+  - title: "Project"
+    url: /Project/
