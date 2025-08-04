@@ -2,8 +2,8 @@
 main:
   - title: "Language"
     url: /Language/
-  - title: "Web"
-    url: /Web/
+  - title: "Algorithm"
+    url: /Algorithm/
   - title: "Tool"
     url: /Tool/
   - title: "AI"
