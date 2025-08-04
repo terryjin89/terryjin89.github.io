@@ -1,6 +1,6 @@
 ---
 title: 'Language'
-layout: categories
+layout: archive
 permalink: /Language/
 taxonomy: Language
 author_profile: true
