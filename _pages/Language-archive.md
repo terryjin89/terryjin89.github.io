@@ -1,6 +1,6 @@
 ---
 title: 'Language'
-layout: categories
+layout: category
 permalink: /Language/
 author_profile: true
 sidebar_main: true
