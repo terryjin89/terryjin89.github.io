@@ -3,7 +3,7 @@ main:
   - title: "PageMap"
     url: /pagemap/
   - title: "Language"
-    url: /categories/language/
+    url: /language/
   - title: " Algorithm"
     url: /algorithm/
   - title: "Tool"
