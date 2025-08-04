@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "PageMap"
+    url: /pagemap/
   - title: "Language"
     url: /language/
   - title: " Algorithm"
