@@ -2,6 +2,6 @@
 title: "Language"
 layout: category
 permalink: /language/
-taxonomy: Language
+taxonomy: language
 author_profile: true
 ---

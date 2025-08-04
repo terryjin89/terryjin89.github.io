@@ -2,6 +2,6 @@
 title: "Project"
 layout: category
 permalink: /project/
-taxonomy: Project
+taxonomy: project
 author_profile: true
 ---
