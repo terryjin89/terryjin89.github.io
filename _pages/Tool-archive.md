@@ -1,6 +1,6 @@
 ---
 title: 'Tool'
-layout: categories
+layout: category
 permalink: /tool/
 taxonomy: tool
 author_profile: true
