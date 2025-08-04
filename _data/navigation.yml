@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "language"
+  - title: "Language"
     url: /language/
-  - title: "algorithm"
+  - title: " Algorithm"
     url: /algorithm/
-  - title: "tool"
+  - title: "Tool"
     url: /tool/
-  - title: "ai"
+  - title: "AI"
     url: /ai/
-  - title: "project"
+  - title: "Project"
     url: /project/
