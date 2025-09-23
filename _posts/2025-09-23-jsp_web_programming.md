@@ -1,10 +1,10 @@
 ---
 layout: single
 title:  "JSP Web Programming"
-category: project
-tag: [JSP, Servlet, Project]
+category: tool
+tag: [JSP, Servlet, Tool]
 ---
-# 웹 개발 핵심 개념 가이드
+# JSP - Web Programming
 
 ## 목차
 1. [정적 웹페이지](#1-정적-웹페이지)
@@ -98,7 +98,7 @@ tag: [JSP, Servlet, Project]
 ---
 
 ## 3. 서블릿 (Servlet)
-![Servlet](../images/project/250923_sevlet_process.png "Servlet")
+![Servlet](../images/tool/250923_sevlet_process.png "Servlet")
 ### 개념
 서블릿은 웹 서버에서 실행되는 자바 프로그램으로, HTTP 요청을 처리하고 동적인 웹 콘텐츠를 생성하는 서버 측 기술입니다. Java EE 스펙의 일부로 웹 애플리케이션 개발의 기본 구성 요소입니다.
 
@@ -156,7 +156,7 @@ public class HelloServlet extends HttpServlet {
 ---
 
 ## 4. JSP (JavaServer Pages)
-![Servlet](../images/project/250923_jsp_page_process.png "Servlet")
+![Servlet](../images/tool/250923_jsp_page_process.png "Servlet")
 ### 개념
 JSP는 HTML 내에 자바 코드를 삽입하여 동적인 웹페이지를 생성하는 기술입니다. 서블릿의 단점을 보완하기 위해 개발되었으며, 웹 디자이너와 개발자 간의 협업을 용이하게 합니다.
 
@@ -214,7 +214,7 @@ JSP는 HTML 내에 자바 코드를 삽입하여 동적인 웹페이지를 생�
 ```
 
 ### 생명 주기
-![jsp](../images/project/250923_jsp_life_cycle.png "Servlet")
+ ![JSP](../images/tool/250923_jsp_life_cycle.png "JSP")
 SP는 서블릿으로 변환되어 실행되므로, 서블릿과 유사하지만 고유한 생명주기를 가집니다.
 #### 1단계: 번역 (Translation)
 - JSP 파일이 서블릿 자바 소스 코드(.java)로 변환
